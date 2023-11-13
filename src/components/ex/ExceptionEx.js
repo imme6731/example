@@ -1,7 +1,6 @@
 export const ExceptionEx = () => {
   try {
     //예외가 발생할 것 같은 코드를 삽입
-    값;
     console.log("덧셈: " + (1 + 1));
   } catch (error) {
     //예외발생시 catch단의 코드가 실행됨
